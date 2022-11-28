@@ -1,0 +1,26 @@
+{
+  "backdrop_path": "/35SS0nlBhu28cSe7TiO3ZiywZhl.jpg",
+  "first_air_date": "2018-05-02",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81002370",
+  "id": 77169,
+  "name": "Cobra Kai",
+  "original_language": "en",
+  "original_name": "Cobra Kai",
+  "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+  "popularity": 3847.238,
+  "poster_path": "/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+  "status": "Returning Series",
+  "tagline": "Fight for the soul of the valley.",
+  "vote_average": 8.1,
+  "vote_count": 3978
+}
